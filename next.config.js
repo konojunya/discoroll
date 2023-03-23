@@ -4,9 +4,4 @@ module.exports = {
   swcMinify: true,
   poweredByHeader: false,
   output: 'standalone',
-  experimental: {
-    turbotrace: {
-      logLevel: 'error',
-    },
-  },
 };
